@@ -8,8 +8,8 @@ NLP 自然語言處理 115-S1 · 整學期使用同一份檔案，**每週新增
 
 | 工具 (例：ChatGPT、Gemini、Claude、Copilot) | 版本 / 方案 (例：免費版) | 用在哪幾週 |
 |---|---|---|
-| Antigravity (Gemini 3.8 Flash / Claude 3.5 Sonnet) | 代理人模式 (Pro/Flash) | Week 02, Week 04, Week 08 |
-| GitHub Copilot | 個人版 | Week 04, Week 08 |
+| Antigravity (Gemini 3.8 Flash / Claude 3.5 Sonnet) | 代理人模式 (Pro/Flash) | Week 02, Week 04, Week 08, Week 09 |
+| GitHub Copilot | 個人版 | Week 04, Week 08, Week 09 |
 
 ---
 
@@ -72,4 +72,4 @@ NLP 自然語言處理 115-S1 · 整學期使用同一份檔案，**每週新增
 ## Week 09：期中資料報告
 
 - AI 對儀表板的解讀與我的查證，請見 [`DATA_REPORT.md`](DATA_REPORT.md) 第 3.2–3.3 節。
-- 一句話：查證後，我發現 AI 的解讀 ___。
+- 一句話：查證後，我發現 AI 的解讀整體準確，特別是在 TAR 錨定率與長度集中度的分析上吻合程式邏輯，但對於細微的 OCR 誤判標題（如 criticism.）仍需人類回頭檢視真實檔案查證。
